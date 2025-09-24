@@ -233,7 +233,7 @@ print("""
 """)
 
 print("="*80)
-print("✅ ANÁLISIS COMPLETO - EDWIN - FASE 2 FINALIZADA")
+print("✅ ANÁLISIS COMPLETO - FASE 2 FINALIZADA")
 print("="*80)
 print("\n📁 Archivo principal para Simio: PARAMETROS_FINALES_SIMIO.csv")
 print("🚀 Listo para implementación y simulación")

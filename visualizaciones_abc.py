@@ -306,5 +306,5 @@ print("""
 """)
 
 print("="*80)
-print("✅ Análisis avanzado completado - Edwin")
+print("✅ Análisis avanzado completado")
 print("="*80)

@@ -1,4 +1,4 @@
-# 📊 Roadmap Análisis de Datos e Inventario - Edwin
+# 📊 Roadmap Análisis de Datos e Inventario
 ## Proyecto Burgh Threads Case Study
 
 ---
@@ -188,7 +188,7 @@ graph LR
 
 ### Estructura de Archivos
 ```
-/Entrega_Edwin
+/Entrega_Analisis
 ├── 📊 Análisis_Tiempos.xlsx
 ├── 📈 Dashboard_Métricas.xlsx
 ├── 📋 Parámetros_Optimizados.csv
@@ -220,10 +220,10 @@ graph LR
 
 | Día | Entregable a Compartir | Con Quién |
 |-----|------------------------|-----------|
-| 4 | Distribuciones de tiempo | Henry & Erick |
+| 4 | Distribuciones de tiempo | Equipo Simio |
 | 8 | Parámetros iniciales | Todo el equipo |
-| 11 | Resultados primera corrida | Kevin & Manuel |
-| 13 | Parámetros finales | Henry & Erick |
+| 11 | Resultados primera corrida | Equipo Documentación |
+| 13 | Parámetros finales | Equipo Simio |
 
 ---
 

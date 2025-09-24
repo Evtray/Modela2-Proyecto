@@ -1,6 +1,6 @@
 # 📊 ENTREGA FINAL - ANÁLISIS DE DATOS E INVENTARIO
 ## Proyecto Burgh Threads - Fase 2
-### Edwin - Septiembre 2025
+### Septiembre 2025
 
 ---
 
@@ -27,12 +27,12 @@ Se completó exitosamente el análisis de datos y optimización de inventario pa
 - `experimentos_refinados.csv` - 81 experimentos optimizados
 
 ### 📝 DOCUMENTACIÓN
-- `resumen_analisis_edwin.md` - Documentación técnica completa
-- `ENTREGA_FINAL_EDWIN.md` - Este documento
+- `resumen_analisis.md` - Documentación técnica completa
+- `ENTREGA_FINAL.md` - Este documento
 
 ### 💻 SCRIPTS DE PROCESAMIENTO
 - `analisis_simple.py` - Análisis estadístico de tiempos
-- `visualizaciones_edwin.py` - Análisis ABC y visualizaciones
+- `visualizaciones_abc.py` - Análisis ABC y visualizaciones
 - `optimizador_inventario.py` - Optimización de parámetros
 - `optimizacion_final.py` - Ajuste final para cumplir restricción
 
@@ -177,6 +177,6 @@ El archivo **`PARAMETROS_FINALES_SIMIO.csv`** contiene todos los parámetros nec
 
 ---
 
-*Análisis completado por Edwin*
+*Análisis completado*
 *Fecha: Septiembre 23, 2025*
 *Proyecto: Burgh Threads - Modelación y Simulación 2*

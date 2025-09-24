@@ -273,7 +273,7 @@ print("✅ Archivo 'matriz_experimentos.csv' creado con éxito")
 # ============================================
 
 print("\n" + "="*80)
-print("RESUMEN DE ANÁLISIS COMPLETADO - EDWIN")
+print("RESUMEN DE ANÁLISIS COMPLETADO")
 print("="*80)
 print("\n📊 ARCHIVOS GENERADOS:")
 print("1. parametros_inventario_inicial.csv - Parámetros para 52 SKUs")
