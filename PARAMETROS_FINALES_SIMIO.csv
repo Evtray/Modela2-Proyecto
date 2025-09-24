@@ -1,0 +1,61 @@
+SKU_ID,Design,Size,Color,Category_ABC,Lot_Size,Reorder_Point,Notes
+SKU026,Jeans,M,Black,A,25,10,Jeans M Black
+SKU025,Jeans,M,Blue,A,25,10,Jeans M Blue
+SKU006,T-Shirt,M,Black,A,16,9,T-Shirt M Black
+SKU043,Dress,M,Black,A,17,7,Dress M Black
+SKU049,Dress,L,Black,A,17,7,Dress L Black
+SKU030,Jeans,L,Black,A,25,10,Jeans L Black
+SKU007,T-Shirt,M,White,A,16,9,T-Shirt M White
+SKU037,Dress,S,Black,A,17,7,Dress S Black
+SKU046,Dress,M,White,A,17,7,Dress M White
+SKU054,Dress,L,Blue,A,17,7,Dress L Blue
+SKU029,Jeans,L,Blue,A,25,10,Jeans L Blue
+SKU022,Jeans,S,Black,A,25,10,Jeans S Black
+SKU048,Dress,M,Blue,A,17,7,Dress M Blue
+SKU034,Jeans,XL,Black,A,25,10,Jeans XL Black
+SKU044,Dress,M,Red,A,17,7,Dress M Red
+SKU031,Jeans,L,Gray,A,25,10,Jeans L Gray
+SKU052,Dress,L,White,A,17,7,Dress L White
+SKU011,T-Shirt,L,Black,A,16,9,T-Shirt L Black
+SKU055,Dress,XL,Black,A,17,7,Dress XL Black
+SKU012,T-Shirt,L,White,A,16,9,T-Shirt L White
+SKU001,T-Shirt,S,Black,A,16,9,T-Shirt S Black
+SKU027,Jeans,M,Gray,A,25,10,Jeans M Gray
+SKU040,Dress,S,White,A,17,7,Dress S White
+SKU050,Dress,L,Red,A,17,7,Dress L Red
+SKU021,Jeans,S,Blue,A,25,10,Jeans S Blue
+SKU032,Jeans,L,Dark Blue,A,25,10,Jeans L Dark Blue
+SKU015,T-Shirt,L,Red,A,16,9,T-Shirt L Red
+SKU045,Dress,M,Navy,A,17,7,Dress M Navy
+SKU058,Dress,XL,White,A,17,7,Dress XL White
+SKU009,T-Shirt,M,Navy,A,16,9,T-Shirt M Navy
+SKU028,Jeans,M,Dark Blue,A,25,10,Jeans M Dark Blue
+SKU051,Dress,L,Navy,A,17,7,Dress L Navy
+SKU038,Dress,S,Red,A,17,7,Dress S Red
+SKU010,T-Shirt,M,Red,A,16,9,T-Shirt M Red
+SKU016,T-Shirt,XL,Black,A,16,9,T-Shirt XL Black
+SKU039,Dress,S,Navy,A,17,7,Dress S Navy
+SKU008,T-Shirt,M,Gray,A,16,9,T-Shirt M Gray
+SKU033,Jeans,XL,Blue,A,25,10,Jeans XL Blue
+SKU047,Dress,M,Green,A,17,7,Dress M Green
+SKU005,T-Shirt,S,Red,A,16,9,T-Shirt S Red
+SKU056,Dress,XL,Red,A,17,7,Dress XL Red
+SKU023,Jeans,S,Gray,B,20,8,Jeans S Gray
+SKU042,Dress,S,Blue,B,15,5,Dress S Blue
+SKU060,Dress,XL,Blue,B,15,5,Dress XL Blue
+SKU053,Dress,L,Green,B,15,5,Dress L Green
+SKU014,T-Shirt,L,Navy,B,13,6,T-Shirt L Navy
+SKU013,T-Shirt,L,Gray,B,13,6,T-Shirt L Gray
+SKU041,Dress,S,Green,B,15,5,Dress S Green
+SKU002,T-Shirt,S,White,B,13,6,T-Shirt S White
+SKU035,Jeans,XL,Gray,B,20,8,Jeans XL Gray
+SKU017,T-Shirt,XL,White,B,13,6,T-Shirt XL White
+SKU019,T-Shirt,XL,Navy,B,13,6,T-Shirt XL Navy
+SKU024,Jeans,S,Dark Blue,B,20,8,Jeans S Dark Blue
+SKU036,Jeans,XL,Dark Blue,B,20,8,Jeans XL Dark Blue
+SKU003,T-Shirt,S,Gray,C,10,4,T-Shirt S Gray
+SKU018,T-Shirt,XL,Gray,C,10,4,T-Shirt XL Gray
+SKU057,Dress,XL,Navy,C,12,4,Dress XL Navy
+SKU004,T-Shirt,S,Navy,C,10,4,T-Shirt S Navy
+SKU020,T-Shirt,XL,Red,C,10,4,T-Shirt XL Red
+SKU059,Dress,XL,Green,C,12,4,Dress XL Green
